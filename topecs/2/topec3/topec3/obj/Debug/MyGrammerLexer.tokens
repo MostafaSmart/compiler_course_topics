@@ -1,0 +1,12 @@
+INT=1
+ID=2
+NUMBER=3
+ASSIGNMENT=4
+SIMI=5
+COMA=6
+WS=7
+INVALID=8
+'int'=1
+'='=4
+';'=5
+','=6
